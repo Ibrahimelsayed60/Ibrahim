@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![hema.jpg Image]({{ site.url }}/{{ site.picture }})
+![assets/images/hema.jpg Image]({{ site.url }}/{{ site.picture }})
 
 <p></p>
 
