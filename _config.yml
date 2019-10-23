@@ -1,6 +1,6 @@
 # main text of home
 name: Ibrahim El-Sayed
-bio: A Man who travels the world eating noodles
+bio: Student at cairo university of engineering, work as web designer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: hemasayed500@yahoo.com
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: hemasayed600@gmail.com
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: hemasayed@gmail.com
 
 authors:
     johndoe:
