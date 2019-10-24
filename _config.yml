@@ -16,8 +16,8 @@ picture: assets/images/hema.jpg
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-#url: http://ibrahimelsayed60.github.io
+#url: https://koppl.in/indigo
+url: https://ibrahimelsayed60.github.io
 
 permalink: /:title/
 
