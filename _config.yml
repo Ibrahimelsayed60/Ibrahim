@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/hema.jpg
 
 # If you want to include your resume, set to true
@@ -16,8 +16,8 @@ picture: assets/images/hema.jpg
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
 
-#url: https://ibrahimelsayed60.github.io
- your url: http://ibrahimelsayed60.github.io
+#url: https://koppl.in/indigo
+url: http://ibrahimelsayed60.github.io
 
 permalink: /:title/
 
